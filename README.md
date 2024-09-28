@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###  FullStack Developer specialized in everything related to JavaScript & TypeScript
+
+-  I'm currently working on a personal **CMS/Backoffice** proyect, expected release 2 months
+-  I'm currently learning **Python** 🐍
