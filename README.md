@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ###  FullStack Developer specialized in everything related to JavaScript & TypeScript
 
--  🧩 I'm currently working on a personal **CMS/Backoffice** proyect, expected release 2 months
--  🌱 I'm currently learning **Python**, Unity & some Lua
+-  🧩 I'm currently working on a personal **CMS/Backoffice** proyect and a Mobile UDP Socket app.
+-  🌱 I'm learning Python, Unity & some Lua
 -  👔 I'm open for work and employment opportunities, on the other hand I also work as a freelancer
 -  ⚓ I'm mostly active on the **JavaScript & TypeScript community**
 -  📮 If you want to reach out to me, send me an email to "dapadev@hotmail.com"
