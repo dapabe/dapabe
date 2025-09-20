@@ -1,25 +1,24 @@
-## Hi there 👋
 
-<!--
-**dapabe/dapabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+``
+Actualmente tomo comisiones y trabajos como Freelancer
+``
 
-Here are some ideas to get you started:
+##  Desarrollador Mobile, Desktop, Backend y de Juegos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Ultimamente me metí de lleno en Lua y hago juegos en [Love2D](https://github.com/love2d/love) y de paso hago Dashboards para mis clientes
+-  Estoy aprendiendo C#, Unity y Godot
+-  Ocacionalmente hago *mods* en [Steam](https://steamcommunity.com/profiles/76561198356656121/myworkshopfiles/)
+-  Trabajo como *Freelancer* y Barista de Café
+-  Tengo mucho interes en la ciberseguridad y redes
+-  Si quieres comunicarte conmigo escribeme a "dapadev@hotmail.com"
+-  Mi meta actual es tener una cafeteria
 
-###  FullStack Developer specialized in everything related to JavaScript & TypeScript
+## Mis ultimos proyectos
 
--  🧩 I'm currently working on a personal **CMS/Backoffice** proyect and a Mobile UDP Socket app.
--  🌱 I'm learning Python, Unity & some Lua
--  👔 I'm open for work and employment opportunities, on the other hand I also work as a freelancer
--  ⚓ I'm mostly active on the **JavaScript & TypeScript community**
--  📮 If you want to reach out to me, send me an email to "dapadev@hotmail.com"
--  🏁 My current goal is to own a coffee shop with my mother.
+- [Cortinas Metálicas Bisbal](https://github.com/dapabe/cortinas-metalicas-bisbal)
+  - Landing Page y Dashboard (Frontend & Backend)
+  - Me encargué del ambito de publicidad (Google Ads) tanto como el diseño en su totalidad
+  - Hecho en Next.js 
+- [Attention Please](https://github.com/dapabe/mono-assist-me) (WIP)
+  - Aplicación monolitica para comunicar mensajes de ayuda P2P a traves del protocolo UDP
+  - Hecha desde cero en TypeScript con Electron.js y React-Native
